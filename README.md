@@ -1,1 +1,2 @@
-# SOLID_Exceptions
+# SpaceBattle
+SOLID Exception handler homework
